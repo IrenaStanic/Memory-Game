@@ -1,1 +1,1 @@
-# Memory-Game
+Igra pamcenja pocinje klikom na kartu, gde je postavljen listener koji dinamicki ispisuje ostale karte i povezuje njihov id sa random odabranim brojem. Klikom na svaku kartu pojedinacno, otvara se karta i prikazuje se slika gde se uporedjuju njihovi id brojevi. Kada se otvore dve iste slike, tj isti redni id broj, karte nestaju. Pri izradi igrice koriscen je gridbox i uvezen je font Arizonia i Charm.
